@@ -14,7 +14,7 @@ This project is to create a scheduler for the current day, with the timeframe be
 https://jimbn.github.io/Challenge-05-work-day-scheduler/
 
 ## Screenshot
-![alt text](assets\image\Screenshot.png?raw=true)
+![alt text](assets/image/Screenshot.png?raw=true)
 
 ## Contribution
 Jim Nguyen
