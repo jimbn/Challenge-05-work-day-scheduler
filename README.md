@@ -1,14 +1,6 @@
 # Challenge 05 - Work Day Scheduler
 
-This project is to create a password generator with the use of HTML, CSS and JS. When the page is loaded, you will be presented with a title of "Password Generator", an empty text box with the heading of "Generate a Password", and a button labeled as "Generate Password".
-
-When 'clicking' the button, you will be prompted with a series of questions to ask for the following: 
-- minimum password length
-- maximum password length
-- if the password contains lowercase letters, uppercase letters, numbers and/or Special Characters.
-
-Once criteria for the password have been selected, the randomized password will be printed onto the text box.
- 
+This project is to create a scheduler for the current day, with the timeframe being from 9AM to 5PM. When opening the scheduler, the title is displayed as well as the current day and date. Scrolling down the user will be presented with time blocks from 9AM to 5PM. The column of each block is the time block, textbox and a save button. Each textbox is color-coded to indicate if the time block is in the past, present or future. When editing the textbox, clicking on the save button will save the added event into local storage.
 
 ## Built With
 * HTML
@@ -16,10 +8,13 @@ Once criteria for the password have been selected, the randomized password will 
 * Bootstrap
 * JS
 * jQuery
-8 MomentJS
+* MomentJS
 
 ## Website
 https://jimbn.github.io/Challenge-05-work-day-scheduler/
+
+## Screenshot
+![alt text](assets\image\Screenshot.png)
 
 ## Contribution
 Jim Nguyen

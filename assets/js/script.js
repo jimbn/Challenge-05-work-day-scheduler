@@ -17,8 +17,8 @@ $("#12 .description").val(localStorage.getItem("12"));
 $("#13 .description").val(localStorage.getItem("13"));
 $("#14 .description").val(localStorage.getItem("14"));
 $("#15 .description").val(localStorage.getItem("15"));
-$("#18 .description").val(localStorage.getItem("18"));
-$("#20 .description").val(localStorage.getItem("20"));
+$("#16 .description").val(localStorage.getItem("16"));
+$("#17 .description").val(localStorage.getItem("17"));
 
 function trackTime () {
     let currentTime = moment().hour();
